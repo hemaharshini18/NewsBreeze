@@ -13,7 +13,7 @@ NewsBreeze is a news aggregation application that fetches the latest headlines, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/NewsBreeze.git
+   git clone https://github.com/hemaharshini18/NewsBreeze.git
    cd NewsBreeze
    ```
 
